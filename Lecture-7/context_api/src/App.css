@@ -1,0 +1,20 @@
+
+
+
+
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.total{
+    margin-top: 2rem;
+    list-style: none;
+}
+
+.total>h5{
+    margin-left: 1.8rem;
+}
